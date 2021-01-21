@@ -1,7 +1,7 @@
 # keells-System
 
 
-![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(337).png)
+![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/sfdsgd.jpg)
 
 sky silva (sky)
 ---
