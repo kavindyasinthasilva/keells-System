@@ -86,6 +86,5 @@ Reach out to me at one of the following places!
 Thank you
 
 
-![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/google-play-badge.png)
 
 skySILVA
