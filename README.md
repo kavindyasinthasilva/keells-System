@@ -4,9 +4,6 @@
 ![Image](https://github.com/kavindyasinthasilva/keells-System/blob/main/SS/Screenshot%20(337).png)
 
 sky silva (sky)
-
-This is my second application publish on play store.![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
-This repo for android developers and you can add more vsc .Thank you. contribute  (fork)✨
 ---
 ## Table of Contents (Optional)✨
 
